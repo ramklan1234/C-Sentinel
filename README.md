@@ -6,9 +6,13 @@ It combines **ANTLR-based DSL parsing** with **pycparser’s C AST parsing** to 
 ## Members
 
 -- 1. **Seyed Ali Hosseini** . [Github_link](https://github.com/sseeyyeedd)
+
 -- 2. **Mahdi Mazloomi** . [Github_link](https://github.com/mahdimm82)
+
 -- 3. **Meysam Asali** . [Github_link](https://github.com/MeysamAsali)
--- 4. **Ramin Kalantari** . [Github_link](https://github.com/ramklan1234)
+
+-- 4. **Ramin Kalantari** . [Github_link](https://github.com/ramklan1234).
+
 ---
 
 ##  High-Level Architecture
